@@ -1,0 +1,16 @@
+C:\xampp\htdocs\udemy\tabuadaCompleta\bin\Debug\net5.0\tabuadaCompleta.exe
+C:\xampp\htdocs\udemy\tabuadaCompleta\bin\Debug\net5.0\tabuadaCompleta.deps.json
+C:\xampp\htdocs\udemy\tabuadaCompleta\bin\Debug\net5.0\tabuadaCompleta.runtimeconfig.json
+C:\xampp\htdocs\udemy\tabuadaCompleta\bin\Debug\net5.0\tabuadaCompleta.runtimeconfig.dev.json
+C:\xampp\htdocs\udemy\tabuadaCompleta\bin\Debug\net5.0\tabuadaCompleta.dll
+C:\xampp\htdocs\udemy\tabuadaCompleta\bin\Debug\net5.0\ref\tabuadaCompleta.dll
+C:\xampp\htdocs\udemy\tabuadaCompleta\bin\Debug\net5.0\tabuadaCompleta.pdb
+C:\xampp\htdocs\udemy\tabuadaCompleta\obj\Debug\net5.0\tabuadaCompleta.csproj.AssemblyReference.cache
+C:\xampp\htdocs\udemy\tabuadaCompleta\obj\Debug\net5.0\tabuadaCompleta.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\udemy\tabuadaCompleta\obj\Debug\net5.0\tabuadaCompleta.AssemblyInfoInputs.cache
+C:\xampp\htdocs\udemy\tabuadaCompleta\obj\Debug\net5.0\tabuadaCompleta.AssemblyInfo.cs
+C:\xampp\htdocs\udemy\tabuadaCompleta\obj\Debug\net5.0\tabuadaCompleta.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\udemy\tabuadaCompleta\obj\Debug\net5.0\tabuadaCompleta.dll
+C:\xampp\htdocs\udemy\tabuadaCompleta\obj\Debug\net5.0\ref\tabuadaCompleta.dll
+C:\xampp\htdocs\udemy\tabuadaCompleta\obj\Debug\net5.0\tabuadaCompleta.pdb
+C:\xampp\htdocs\udemy\tabuadaCompleta\obj\Debug\net5.0\tabuadaCompleta.genruntimeconfig.cache
